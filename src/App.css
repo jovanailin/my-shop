@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+
+.colCheckout {
+  background: white;
+  border: solid #cc9966;
+  border-width: thin;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 0px 10px white;
+
+
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #cc9966;
+  font-size: 24px;
+}
+
+.checkout {
+  font-size: 16px;
+}
+
+.sidebar {
+  height: 100vw;
+  position: fixed;
+}
+
+.login2 {
+  width: 100%;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+filter: invert(100%);
+}
+
+
+.carousel-indicators {
+    filter: invert(100%);
+}
+
+.checkout-text {
+  font-size: 16px !important;
+}
+
+.order-text {
+  font-size: 20px;
+}
