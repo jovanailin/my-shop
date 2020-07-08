@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### You can test demo version here: https://jovanailin.github.io/my-shop/#/
+admin login:
+mail: admin@admin.com
+password: adminadmin
+
+customer login:
+mail: user@user.com
+password: useruser
+
 ## Available Scripts
 
 In the project directory, you can run:
