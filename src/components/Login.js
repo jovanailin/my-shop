@@ -140,7 +140,7 @@ function Login(){
                 <Form.Control onChange={passwordLogIn} value={password} name="password" id="password" type="password" class="form-control" placeholder="Password"></Form.Control>
               </div>
 
-          <Button block onClick={login}><span className="login2"><Link block to="/account" className="text-white">Log in</Link></span></Button>
+          <Button className="mt-2" onClick={login}><span className="login2"><Link block to="/account" className="text-white">Log in</Link></span></Button>
           </Form.Group>
 
           </Form>
@@ -187,7 +187,7 @@ function Login(){
 
               </div>
 
-              <button onClick={signUp} type="submit" class="btn btn-block btn-success">Sign up</button>
+              <button onClick={signUp} type="submit" class="btn btn-success">Sign up</button>
             </fieldset>
 
           </form>
